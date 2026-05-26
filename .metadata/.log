@@ -1,0 +1,33 @@
+!SESSION 2026-05-19 11:08:59.505 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\madhi\Documents\GitHub\STM32-Learning
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-05-19 11:09:16.279
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-05-19 11:09:16.302
+!MESSAGE Log4j2 initialized with config file C:\Users\madhi\Documents\GitHub\STM32-Learning\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-05-19 11:09:25.255
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-05-19 11:16:31.936
+!MESSAGE Indexed '01-GPIO_Playground' (22 sources, 82 headers) in 12.2 sec: 5,046 declarations; 26,619 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0063%)
+!SESSION 2026-05-20 13:38:19.232 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-05-20 13:39:15.382
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-05-20 13:39:15.406
+!MESSAGE Log4j2 initialized with config file C:\Users\madhi\Documents\GitHub\STM32-Learning\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-05-20 13:39:39.784
+!MESSAGE Started RMI Server, listening on port 41337
